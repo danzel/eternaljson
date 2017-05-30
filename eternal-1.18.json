@@ -2970,7 +2970,7 @@
 		"set":"Set1",
 		"num":177,
 		"name":"Plated Demolisher",
-		"text":"Endurance; Summon: You gain 2 Armor. At the start of the enemy turn, if you have no Armor, sacrifice Plated Demolisher.",
+		"text":"Endurance; Summon: You gain 2 Armor.; At the start of the enemy turn, if you have no Armor, sacrifice Plated Demolisher.",
 		"influence":"{J}{J}",
 		"__id":200,
 		"rarity":"Legendary",
@@ -5485,7 +5485,7 @@
 	{
 		"set":"Set1",
 		"name":"Combrei Banner",
-		"text":"Gain {T} {J}.; Depleted unles you have a unit.",
+		"text":"Gain {T} {J}.; Depleted unless you have a unit.",
 		"influence":"{J}{T}",
 		"__id":370,
 		"rarity":"Common",
