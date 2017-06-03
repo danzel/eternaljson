@@ -3217,7 +3217,7 @@
 		"set":"Set1",
 		"num":200,
 		"name":"Backlash",
-		"text":"Negate an enemy spell and deal 2 damage to that play.",
+		"text":"Negate an enemy spell and deal 2 damage to that player.",
 		"influence":"{P}",
 		"__id":217,
 		"rarity":"Common",
